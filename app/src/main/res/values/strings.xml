@@ -3,4 +3,12 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="button">Jugar</string>
+    <string name="tema_cultura_general">Tema: Cultura general</string>
+    <string name="bienvenido_al_juego">¡Bienvenido al juego!</string>
+    <string name="n_mero_de_preguntas_3_rondas_de_3_preguntas_cada_una_total_de_9_preguntas">Número de preguntas: 3 rondas de 3 preguntas cada una (total de 9 preguntas)</string>
+    <string name="duraci_n_aproximadamente_10_15_minutos">Duración: Aproximadamente 10-15 minutos</string>
+    <string name="preguntas">PREGUNTAS</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
 </resources>
